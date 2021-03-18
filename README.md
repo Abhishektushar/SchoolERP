@@ -13,7 +13,6 @@ Here are some Screenshots of the different modules.
 
 ![Accounting-home](https://user-images.githubusercontent.com/41536635/111013304-e0022e00-83c4-11eb-8582-f6312960ba89.png)
 
-![Accounting -StudentFeeDetails](https://user-images.githubusercontent.com/41536635/111013345-00ca8380-83c5-11eb-911b-3ddfa8790dca.png)
 
 ![Accounting -StudentFeeHistory](https://user-images.githubusercontent.com/41536635/111013380-235c9c80-83c5-11eb-8b25-79e3208c40b5.png)
 
