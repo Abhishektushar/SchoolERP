@@ -1,4 +1,4 @@
-# SchoolERP fully dynammic website build using PHP from scratch.
+# SchoolERP dynamic website build using PHP from scratch.
 Here are some Screenshots of the different modules.
  
 ![Dashboard](https://user-images.githubusercontent.com/41536635/111013023-fc519b00-83c3-11eb-8a99-2e243b00527d.png)
